@@ -1,0 +1,147 @@
+.aif:Audio
+.cda:Audio
+.mid:Audio
+.midi:Audio
+.mp3:Audio
+.mpa:Audio
+.ogg:Audio
+.wav:Audio
+.wma:Audio
+.wpl:Audio
+.7z:compressed files
+.arj:compressed files
+.deb:compressed files
+.pkg:compressed files
+.rar:compressed files
+.rpm:compressed files
+.tar.gz:compressed files
+.z:compressed files
+.zip:compressed files
+.bin:Disc and media files
+.dmg:Disc and media files
+.iso:Disc and media files
+.toast:Disc and media files
+.vcd:Disc and media files
+.csv:Data and database files
+.dat:Data and database files
+.db:Data and database files
+.dbf:Data and database files
+.log:Data and database files
+.mdb:Data and database files
+.sav:Data and database files
+.sql:Data and database files
+.tar:Data and database files
+.xml:Data and database files
+.email:E-mail files
+.eml:E-mail files
+.emlx:E-mail files
+.msg:E-mail files
+.oft:E-mail files
+.ost:E-mail files
+.pst:E-mail files
+.vcf:E-mail files
+.apk:Executable files
+.bat:Executable files
+.bin:Executable files
+.cgi:Executable files
+.pl:Executable files
+.com:Executable files
+.exe:Executable files
+.gadget:Executable files
+.jar:Executable files
+.msi:Executable files
+.py:Executable files
+.wsf:Executable files
+.fnt:Font files
+.fon:Font files
+.otf:Font files
+.ttf:Font files
+.ai:Image files
+.bmp:Image files
+.gif:Image files
+.ico:Image files
+.jpeg:Image files
+.jpg:Image files
+.png:Image files
+.ps:Image files
+.psd:Image files
+.svg:Image files
+.tif:Image files
+.tiff:Image files
+.asp:Internet-related files
+.aspx:Internet-related files
+.cer:Internet-related files
+.cfm:Internet-related files
+.cgi:Internet-related files
+.pl:Internet-related files
+.css:Internet-related files
+.htm:Internet-related files
+.html:Internet-related files
+.js:Internet-related files
+.jsp:Internet-related files
+.part:Internet-related files
+.php:Internet-related files
+.py:Internet-related files
+.rss:Internet-related files
+.xhtml:Internet-related files
+.key:Presentation files
+.odp:Presentation files
+.pps:Presentation files
+.ppt:Presentation files
+.pptx:Presentation files
+.c:Programming files
+.cgi:Programming files
+.pl:Programming files
+.class:Programming files
+.cpp:Programming files
+.cs:Programming files
+.h:Programming files
+.java:Programming files
+.php:Programming files
+.py:Programming files
+.sh:Programming files
+.swift:Programming files
+.vb:Programming files
+.ods:Spreadsheet files
+.xls:Spreadsheet files
+.xlsm:Spreadsheet files
+.xlsx:Spreadsheet files
+.xltx:Spreadsheet files
+.bak:Executable files
+.cab:Executable files
+.cfg:Executable files
+.cpl:Executable files
+.cur:Executable files
+.dll:Executable files
+.dmp:Executable files
+.drv:Executable files
+.icns:Executable files
+.ico:Executable files
+.ini:Executable files
+.lnk:Executable files
+.msi:Executable files
+.sys:Executable files
+.tmp:Executable files
+.3g2:Video files
+.3gp:Video files
+.avi:Video files
+.flv:Video files
+.h264:Video files
+.m4v:Video files
+.mkv:Video files
+.mov:Video files
+.mp4:Video files
+.mpg:Video files
+.mpeg:Video files
+.rm:Video files
+.swf:Video files
+.vob:Video files
+.wmv:Video files
+.doc:Word processor and text files
+.docx:Word processor and text files
+.odt:Word processor and text files
+.pdf:Word processor and text files
+.rtf:Word processor and text files
+.tex:Word processor and text files
+.txt:Word processor and text files
+.wpd:Word processor and text files
